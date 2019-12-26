@@ -3,7 +3,10 @@ H5及app端爬虫
 
 # AppClient.py
 
+内含x-sign调用接口示例
+
 get_live_detail 获取淘宝直播信息
+
 w_search 根据关键词搜索商品列表
 
 # H5Client.py
