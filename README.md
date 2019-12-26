@@ -1,5 +1,5 @@
 # 淘宝app最新版爬虫
-H5及app端爬虫
+taobao H5及app端爬虫,sign与x-sign的综合用法介绍
 
 # AppClient.py
 
